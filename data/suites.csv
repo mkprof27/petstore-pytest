@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","62","Создание питомца с разными статусами","tests","2026-06-03","passed","2026-06-03","TestPet","test_pet","",""
+"","50","Удаление питомца","tests","2026-06-03","passed","2026-06-03","TestPet","test_pet","",""
+"","50","Создание питомца с разными статусами","tests","2026-06-03","passed","2026-06-03","TestPet","test_pet","",""
+"","84","Создание питомца с разными статусами","tests","2026-06-03","passed","2026-06-03","TestPet","test_pet","",""
+"","83","Обновление питомца","tests","2026-06-03","passed","2026-06-03","TestPet","test_pet","",""
+"","0","Создание питомца","tests","2026-06-03","passed","2026-06-03","TestPet","test_pet","",""
